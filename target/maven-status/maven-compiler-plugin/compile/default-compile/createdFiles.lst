@@ -1,0 +1,16 @@
+org/example/project/entities/Operations.class
+org/example/project/repo/EquipmentRepo.class
+org/example/project/controllers/OrdersController.class
+org/example/project/repo/OrdersRepo.class
+org/example/project/entities/Equipment.class
+org/example/project/controllers/TemplateController.class
+org/example/project/entities/Orders.class
+org/example/project/Run.class
+org/example/project/controllers/MaterialsController.class
+org/example/project/repo/MaterialsRepo.class
+org/example/project/entities/Materials.class
+org/example/project/entities/Templates.class
+org/example/project/controllers/OperationsController.class
+org/example/project/controllers/MainController.class
+org/example/project/repo/TemplatesRepo.class
+org/example/project/repo/OperationsRepo.class
